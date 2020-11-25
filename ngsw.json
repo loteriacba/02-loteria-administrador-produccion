@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1606323813829,
+  "timestamp": 1606340753919,
   "index": "https://loteriacba.github.io/02-loteria-administrador-produccion/index.html",
   "assetGroups": [
     {
@@ -105,7 +105,25 @@
       "patterns": []
     }
   ],
-  "dataGroups": [],
+  "dataGroups": [
+    {
+      "name": "registro-usuario-api",
+      "patterns": [
+        "https:\\/\\/192\\.168\\.1\\.14\\/client\\/login\\/",
+        "https:\\/\\/192\\.168\\.1\\.14\\/client\\/create\\/",
+        "https:\\/\\/wsfe\\.cunix\\.net\\/factura_electronica\\/backend-server-php\\/.*",
+        "https:\\/\\/www\\.prevenciondelavado\\.com\\/listas\\/api\\/busqueda"
+      ],
+      "strategy": "freshness",
+      "maxSize": 20,
+      "maxAge": 3600000,
+      "timeoutMs": 5000,
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "version": 1
+    }
+  ],
   "hashTable": {
     "https://loteriacba.github.io/02-loteria-administrador-produccion/assets/animate/animate.css": "6030c2d796763c7b610c7538c8d17a252e5f9279",
     "https://loteriacba.github.io/02-loteria-administrador-produccion/assets/css/main.css": "7520e67f394f8582da2389b046d378d44daf1bda",
