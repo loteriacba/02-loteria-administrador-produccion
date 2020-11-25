@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1606343598507,
+  "timestamp": 1606348099934,
   "index": "https://loteriacba.github.io/02-loteria-administrador-produccion/index.html",
   "assetGroups": [
     {
@@ -16,7 +16,7 @@
         "https://loteriacba.github.io/02-loteria-administrador-produccion/assets/css/util.css",
         "https://loteriacba.github.io/02-loteria-administrador-produccion/favicon.ico",
         "https://loteriacba.github.io/02-loteria-administrador-produccion/index.html",
-        "https://loteriacba.github.io/02-loteria-administrador-produccion/main.31226f7746321491df0b.js",
+        "https://loteriacba.github.io/02-loteria-administrador-produccion/main.3552eb2d309d34cfd5f3.js",
         "https://loteriacba.github.io/02-loteria-administrador-produccion/manifest.webmanifest",
         "https://loteriacba.github.io/02-loteria-administrador-produccion/polyfills.f43954ace77eaf1b4591.js",
         "https://loteriacba.github.io/02-loteria-administrador-produccion/runtime.359d5ee4682f20e936e9.js",
@@ -370,8 +370,8 @@
     "https://loteriacba.github.io/02-loteria-administrador-produccion/assets/images/telebingo.jpeg": "6249902101beaea91cdedcd8e51a0228843fa70f",
     "https://loteriacba.github.io/02-loteria-administrador-produccion/assets/images/telebingo_c.png": "de75f9544ffed2a0a4cd6700d4fb7bc843886889",
     "https://loteriacba.github.io/02-loteria-administrador-produccion/favicon.ico": "af2b4408fb597cd1ed0979f0ae5e13050ea9fe89",
-    "https://loteriacba.github.io/02-loteria-administrador-produccion/index.html": "3a7989d9cc1c489f24019086c0f58a3fdccc7dcd",
-    "https://loteriacba.github.io/02-loteria-administrador-produccion/main.31226f7746321491df0b.js": "4a398d7697421da59cb2dfc0f48d34ba73797ec9",
+    "https://loteriacba.github.io/02-loteria-administrador-produccion/index.html": "2d011586e0853aa52b9904fe855ba731436b15a3",
+    "https://loteriacba.github.io/02-loteria-administrador-produccion/main.3552eb2d309d34cfd5f3.js": "42f45aeeca1483405ec2842689df203dde0238c2",
     "https://loteriacba.github.io/02-loteria-administrador-produccion/manifest.webmanifest": "c49e6c62642707271796c25585f7293653dc4449",
     "https://loteriacba.github.io/02-loteria-administrador-produccion/polyfills.f43954ace77eaf1b4591.js": "0d003992512d28c544b0a972ce2ae6b28ebbf5f6",
     "https://loteriacba.github.io/02-loteria-administrador-produccion/runtime.359d5ee4682f20e936e9.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
